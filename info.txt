@@ -8,3 +8,7 @@ After changing file content
 2.git remote add origin https://github.com/dinoopdcj1992/git.git
 3.git push -u origin master
 
+To pull from repository
+1.git pull https://github.com/dinoopdcj1992/git.git
+
+
