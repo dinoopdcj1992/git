@@ -11,4 +11,10 @@ After changing file content
 To pull from repository
 1.git pull https://github.com/dinoopdcj1992/git.git
 
+Steps:
+1.Create a branch in your system
+2.make changes to the file
+3.Commit the file
+4.Pull request
+5.Push
 
