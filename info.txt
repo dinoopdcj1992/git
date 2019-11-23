@@ -1,4 +1,4 @@
-1.add abc.txt
+1.git add abc.txt
 2.git commit -m "i added abc.txt"
 3.git remote add origin https://github.com/dinoopdcj1992/git.git
 4.git push -u origin master
